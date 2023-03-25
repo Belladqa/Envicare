@@ -1,0 +1,24 @@
+.banner{
+	background-image: url("../img/bglogin.jpg") ;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: #2D3047;
+	height: 100vh;
+	width: 100%;
+	/* opacity:90%; */
+}
+
+.form-container{
+	background: rgba(3, 3, 3, 0.151);
+	height: 100vh;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+}
+
+a:hover {
+	color: rgb(37, 36, 36);
+}

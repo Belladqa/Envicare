@@ -1,0 +1,74 @@
+.navtext {
+    color: #ffffff;
+    font-size: 3vw;
+    margin-left: 3%;
+  }
+
+.colorcard {
+    color: #2d3047;
+	border: 1px solid #2D3047;
+	border-radius: 5px;
+}
+
+.colorcard:hover {
+	background-color:  #2D3047;
+  	color: white;
+}
+
+.cards {
+  position: relative;
+}
+
+.footer-container{
+	max-width: 1300px;
+	margin: auto;
+	padding: 0 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap-reverse;
+  color: white;
+}
+
+.social-media ul{
+	display: inline-block;
+  	color: white;
+}
+
+.social-media ul li{
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+  	color: white;
+}
+
+.social-media ul li a{
+	font-size: 24px;
+	color: black;
+	background: transparent;
+	color: white;
+}
+.social-media ul li a:hover{
+	color: #626579;
+}
+
+.social-media1 ul li{
+	margin-right: 10px;
+	margin-left: 10px;
+	font-size: 40px;
+	color: black;
+	letter-spacing: 0.1em;
+	background: transparent;
+  color: white;
+}
+
+.logout {
+  text-decoration: none;
+  color: white;
+  font-size: 1vw;
+  margin-left: 3%;
+}
+
+.logout:hover {
+  color: #226160;
+}
